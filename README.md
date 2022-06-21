@@ -1,1 +1,1 @@
-my first read me of the day
+my first read me of the day.
